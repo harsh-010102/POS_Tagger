@@ -1,4 +1,4 @@
-# Intro to NLP Assignment 2
+# POS Tagger
 
 ### How to run files
 
